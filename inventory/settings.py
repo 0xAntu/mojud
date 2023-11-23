@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'stock',
     'crispy_forms',
     'django_filters',
+    'crispy_bootstrap4',
     'users'
   
 ]
